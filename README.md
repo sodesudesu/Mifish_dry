@@ -6,11 +6,11 @@ Bioinformatic analysis of fish environmental DNA.
 
 ### Sample Sheet
 
-reverse-i7, reverse-i5
+- [SampleSheet(rc-i7, rc-i5)](SampleSheet.csv)
 
-- [SampleSheet](SampleSheet.csv)
+### Reverse complement generator written in Perl
 
-### 
+- [Script](rc_get.pl)
 
 ### BCL >> FASTQ
 
